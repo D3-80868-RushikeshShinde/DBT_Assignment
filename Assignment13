@@ -1,0 +1,31 @@
+Using the UNION clause.
+1) Create a union of two queries that shows the
+names, cities, and ratings of all customers. Those
+with rating of 200 or greater will also have the
+words “High Rating”, while the others will have
+the words “Low Rating”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2) Write a command that produces the name and
+number of each salesperson and each customer with
+more than one current order. Put the results in
+alphabetical order.
